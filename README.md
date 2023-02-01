@@ -1,8 +1,4 @@
-<div>
-- 📚 I’m studying Computer Science.
- <br>
-- 📑 My email address: iagocomputerscience@gmail.com
-</div>
+
 
 <br>
 
