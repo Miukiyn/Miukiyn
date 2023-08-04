@@ -1,5 +1,4 @@
 # Activities
--『 [AEDS II ](https://github.com/Miukiyn/AEDS-II)』- C++, C, Java.
  
  
  > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miukiyn&show_icons=true&theme=radical)
